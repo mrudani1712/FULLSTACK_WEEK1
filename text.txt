@@ -1,0 +1,3 @@
+This is a sample text file.
+Created as part of week1 Git Practical.
+
